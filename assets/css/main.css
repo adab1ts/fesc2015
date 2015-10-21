@@ -2468,9 +2468,8 @@
 					padding-right: 2em;
 				}
 
-					#header header h1 {
-						font-size: 1.75em;
-						letter-spacing: 6px;
+					#header header svg {
+						width: 100%;
 					}
 
 				#header footer {
