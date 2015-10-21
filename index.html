@@ -8,46 +8,47 @@ layout: default
 			{% include hero.html %}
 		</header>
 		<footer>
-			<a href="#banner" class="button style2 scrolly-middle">Proceed as anticipated</a>
+			<a href="#banner" class="button style2 scrolly">Benvingudes</a>
 		</footer>
 	</section>
 
 <!-- Banner -->
 	<section id="banner">
 		<header>
-			<h2>This is Overflow</h2>
+			<h2>Reapropiem-nos de la vida</h2>
 		</header>
-		<p>A brand new site template designed by <a href="http://n33.co">AJ</a> for <a href="http://html5up.net">HTML5 UP</a>.<br />
-		It’s fully responsive, built on <strong>skel</strong>, and of course entirely free<br />
-		under the <a href="http://html5up.net/license">Creative Commons license</a>.</p>
+		<article class="container box-alt intro">
+			<div class="inner">
+				<p>Aquesta 4a edició de la <a href="http://www.firaesc.org/" target="_blank">Fira d’Economia Solidària de Catalunya</a> es presenta amb la voluntat expressa de posar la vida al centre. La FESC ens convida a canviar la nostra mirada sobre l’economia, la societat i el medi ambient. Ens ajuda a conèixer-nos, créixer i enfortir-nos amb experiències que deixaran petjada en nosaltres.</p>
+				<p>Amb aquesta web volem conservar l’energia i l’esperit de les persones i organitzacions que durant aquest dos dies compartim espai, converses i coneixements. Us convidem a participar i construir-la entre totes al llarg d’aquestes jornades, aportant les vostres reflexions i comentaris a mode de llibre de visita.</p>
+			</div><!--
+			--><div class="inner">
+				<p>Recollir l’empremta de la <a href="https://twitter.com/hashtag/FESC2015" target="_blank">#FESC2015</a> és la nostra manera de contribuir-hi i posar al centre la vida, els instants de vida que esdevindran rere els murs de Fabra i Coats aquest cap de setmana.</p>
+				<p>Al mapa d’expositors trobareu totes les organitzacions que participen en aquesta edició, amb enllaços a les seves webs, organitzades en colors per eixos temàtics i ubicades geogràficament.</p>
+				<p>A la part inferior les persones sou les protagonistes. Deixeu el vostre missatge i feu crèixer la web. Només heu de visitar l’stand d’Adab1ts a la secció Serveis i escriure les vostres aportacions, que veureu publicades en temps real.</p>
+			</div>
+		</article>
+		<div class="container box-alt map">
+			<iframe src="https://klaudiadevel.cartodb.com/viz/ffeb2ada-7021-11e5-8d66-0ecfd53eb7d3/embed_map"></iframe>
+		</div>
 		<footer>
-			<a href="#first" class="button style2 scrolly">Act on this message</a>
+			<a href="#postcard_1" class="button style2 scrolly">Participa!</a>
 		</footer>
 	</section>
 
-<!-- Feature 1 -->
-	<article id="first" class="container box style1 right">
-		<a href="#" class="image fit"><img src="images/pic01.jpg" alt="" /></a>
+<!-- Guestbook -->
+	{% for postcard in site.posts %}
+	<article id="postcard_{{ forloop.index }}" class="container box style1 {% cycle 'right', 'left' %}">
+		<a href="#postcard_{% if forloop.last %}1{% else %}{{ forloop.index | plus: 1 }}{% endif %}" class="image fit scrolly"><img src="{{ postcard.image_path }}" alt="{{ postcard.author }}" /></a>
 		<div class="inner">
 			<header>
-				<h2>Lorem ipsum<br />
-				dolor sit amet</h2>
+				<h2>{{ postcard.author }}</h2>
+				<span class="datetime">{{ postcard.date | date: "%d/%m/%Y %R" }}</span>
 			</header>
-			<p>Tortor faucibus ullamcorper nec tempus purus sed penatibus. Lacinia pellentesque eleifend vitae est elit tristique velit tempus etiam.</p>
+			<p>{{ postcard.content }}</p>
 		</div>
 	</article>
-
-<!-- Feature 2 -->
-	<article class="container box style1 left">
-		<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-		<div class="inner">
-			<header>
-				<h2>Mollis posuere<br />
-				lectus lacus</h2>
-			</header>
-			<p>Rhoncus mattis egestas sed fusce sodales rutrum et etiam ullamcorper. Etiam egestas scelerisque ac duis magna lorem ipsum dolor.</p>
-		</div>
-	</article>
+	{% endfor %}
 
 <!-- Portfolio -->
 	<article class="container box style2">

@@ -1793,6 +1793,7 @@
 		.box.style1 {
 			background: #fff;
 			padding: 3em;
+			line-height: 1.3em;
 		}
 
 			.box.style1 .image {
@@ -1901,6 +1902,46 @@
 				text-align: center;
 			}
 
+/* Box Alt */
+
+	.box-alt {
+		margin-top: 0;
+		margin-bottom: 2em;
+	}
+
+		.box-alt.intro {
+			text-align: left;
+			line-height: 1.5em;
+			height: auto !important;
+		}
+
+		.box-alt .inner {
+			display: inline-block;
+			float: left;
+			margin: 0 0 2em;
+			padding: 0 2em;
+			width: 50%;
+		}
+
+			.box-alt .inner:first-child {
+				padding-left: 0;
+			}
+			.box-alt .inner:last-child {
+				padding-right: 0;
+			}
+
+			.box-alt .inner p {
+				margin-bottom: 1em !important;
+			}
+			.box-alt .inner p:last-child {
+				margin-bottom: 0 !important;
+			}
+
+		.box-alt.map iframe {
+			height: 520px;
+			width: 100%;
+		}
+
 /* Icons */
 
 	.icon {
@@ -1923,6 +1964,13 @@
 			display: none;
 		}
 
+/* Utils */
+
+	.datetime {
+		font-size: .75em;
+		letter-spacing: .2em;
+	}
+	
 /* Header */
 
 	#header {
@@ -2422,7 +2470,6 @@
 
 				.box.style1 {
 					padding: 0;
-					text-align: center;
 				}
 
 					.box.style1 .image {
@@ -2455,6 +2502,23 @@
 
 				.box.style3 {
 					padding: 2em 1.25em 2em 1.25em;
+				}
+
+		/* Box Alt */
+
+				.box-alt.intro {
+					height: auto !important;
+				}
+
+				.box-alt .inner {
+					display: block;
+					float: none;
+					padding: 0;
+					width: 100%;
+				}
+
+				.box-alt.map iframe {
+					height: 300px;
 				}
 
 		/* Header */
