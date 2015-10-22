@@ -14,5 +14,9 @@
 		<!-- Scripts -->
 		{% include scripts.html %}
 
+		{% unless jekyll.environment == "development" %}
+			{% include analytics.html %}
+		{% endunless %}
+
 	</body>
 </html>
