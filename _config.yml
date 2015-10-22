@@ -5,6 +5,14 @@ baseurl: ""
 url: "http://fesc2015.adabits.org"
 email: info@adabits.org
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "drafts"
+    values:
+      image_path: /images/postcards/sample.jpg
 
 # Paths
 # sass:
