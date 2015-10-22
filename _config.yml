@@ -1,9 +1,9 @@
 # Site settings
 title: FESC2015 by Adab1ts
-email: info@adabits.org
 description: Website de demostració per a la FESC 2015, 23-25 d'octubre.
 baseurl: ""
 url: "http://fesc2015.adabits.org"
+email: info@adabits.org
 
 
 # Paths
@@ -28,6 +28,9 @@ gems:
 # Conversion
 markdown:    kramdown
 highlighter: pygments
+
+# Outputting
+permalink: /guestbook/:year/:month/:day/:title/
 
 # Markdown Processors
 kramdown:
