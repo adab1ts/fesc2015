@@ -158,6 +158,7 @@
 			});
 
 		// Walkway.
+		/*
 		var svgs = [
 		  new Walkway({ selector: '#fesc2015', duration: '4000', easing: 'easeInQuad' }),
 		  new Walkway({ selector: '#separator', duration: '4000', easing: 'easeOut' }),
@@ -167,6 +168,7 @@
 		svgs.forEach(function(svg) {
 		  svg.draw();
 		});
+		*/
 
 	});
 
