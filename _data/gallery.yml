@@ -1,5 +1,20 @@
-- title: Ad infinitum
-  description: Ad infinitum
+- title: Stand Adab1ts
+  description: Stand Adab1ts
   image_path: /images/fulls/01.jpg
   thumb_path: /images/thumbs/01.jpg
-  date: 20/10/2015 17:30
+  date: 24/10/2015 11:05
+- title: Muntatge de la Fira
+  description: Muntatge de la Fira
+  image_path: /images/fulls/02.jpg
+  thumb_path: /images/thumbs/02.jpg
+  date: 24/10/2015 11:07
+- title: Exterior Fabra i Coats
+  description: Exterior Fabra i Coats
+  image_path: /images/fulls/03.jpg
+  thumb_path: /images/thumbs/03.jpg
+  date: 24/10/2015 11:08
+- title: Punt d'informació
+  description: Punt d'informació
+  image_path: /images/fulls/04.jpg
+  thumb_path: /images/thumbs/04.jpg
+  date: 24/10/2015 11:10
