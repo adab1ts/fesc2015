@@ -1,6 +1,6 @@
 ---
 author: Ari Caballero
-date: 2015-10-24T00:00:00.000Z
+date: 2015-10-24 14:32:00 +0200
 image_path: /images/postcards/sample.jpg
 ---
 
