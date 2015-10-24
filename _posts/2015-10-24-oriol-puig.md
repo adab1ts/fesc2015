@@ -1,6 +1,6 @@
 ---
 author: Oriol Puig
-date: 2015-10-24T11:54:00.000Z
+date: 2015-10-24 11:54:00 +0200
 image_path: /images/postcards/sample.jpg
 ---
 
