@@ -1,6 +1,6 @@
 ---
 author: Marta Molas
-date: 2015-10-24T00:00:00.000Z
+date: 2015-10-24 16:57:00
 image_path: /images/postcards/sample.jpg
 ---
 
