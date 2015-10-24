@@ -1,5 +1,6 @@
 ---
 author: Jane Doe
-date: 2015-10-26 10:00:00
+date: 2015-10-26T22:00:00.000Z
 image_path: /images/postcards/sample.jpg
 ---
+
