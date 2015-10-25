@@ -1,5 +1,5 @@
 ---
-author: Patri Gomez
+author: Patri Gómez
 date: 2015-10-24 20:30:00 +0200
 image_path: /images/postcards/patri-gomez.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-author: David Fernandez
+author: David Fernández
 date: 2015-10-25 12:44:00 +0200
 image_path: /images/postcards/david-fernandez.jpg
 ---

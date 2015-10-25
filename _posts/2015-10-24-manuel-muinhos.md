@@ -1,5 +1,5 @@
 ---
-author: manuel muinhos
+author: Manuel Muiños
 date: 2015-10-24 19:23:00 +0200
 image_path: /images/postcards/manuel-muinhos.jpg
 ---

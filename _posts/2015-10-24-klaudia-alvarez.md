@@ -1,5 +1,5 @@
 ---
-author: Klaudia Alvarez
+author: Klaudia Álvarez
 date: 2015-10-24 17:10:00 +0200
 image_path: /images/postcards/klaudia-alv.jpg
 ---

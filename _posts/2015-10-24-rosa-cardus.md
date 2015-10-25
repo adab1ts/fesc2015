@@ -1,5 +1,5 @@
 ---
-author: Rosa Cardus
+author: Rosa Cardús
 date: 2015-10-24 19:23:00 +0200
 image_path: /images/postcards/rosa-cardus.jpg
 ---

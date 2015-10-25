@@ -1,5 +1,5 @@
 ---
-author: Cinthia Perez
+author: Cinthia Pérez
 date: 2015-10-24 15:20:00 +0200
 image_path: /images/postcards/cinthia-perez.jpg
 ---

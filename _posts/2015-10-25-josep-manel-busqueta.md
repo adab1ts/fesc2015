@@ -1,6 +1,6 @@
 ---
-author: josep manel busqueta
+author: Josep Manel Busqueta
 date: 2015-10-25 11:37:00 +0200
 image_path: /images/postcards/josep-m-busqueta.jpg
 ---
-Feli&ccedil; de veure com creix aqueta munio de mons i de mica en mica anem constru&iuml;nt aquestm&oacute;n on hi cabran tots aquest i els que han de venir. La formigueta avan&ccedil;a feli&ccedil; i alegre.
+Feli&ccedil; de veure com creix aqueta munió de mons i de mica en mica anem constru&iuml;nt aquest m&oacute;n on hi cabran tots aquests i els que han de venir. La formigueta avan&ccedil;a feli&ccedil; i alegre.
