@@ -1,7 +1,6 @@
 ---
 author: Mar Vallecillos
-date: 2015-10-25T08:00:00.000Z
-image_path: /images/postcards/sample.jpg
+date: 2015-10-25 14:03:00 +0200
+image_path: /images/postcards/mar-vallecillos.jpg
 ---
-
 Cadasc&uacute; de nosaltres som agents de desenvolupament econ&ograve;mic. Mai m&eacute;s una planificaci&oacute; econ&ograve;mica sense nosaltres!
