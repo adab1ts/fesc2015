@@ -18,11 +18,6 @@
   image_path: /images/fulls/04.jpg
   thumb_path: /images/thumbs/04.jpg
   date: 24/10/2015 11:10
-- title: Punt d'informació
-  description: Punt d'informació
-  image_path: /images/fulls/04.jpg
-  thumb_path: /images/thumbs/04.jpg
-  date: 24/10/2015 11:11
 - title: Carpa exterior Fabra i Coats
   description: Carpa exterior Fabra i Coats
   image_path: /images/fulls/05.jpg
@@ -58,3 +53,13 @@
   image_path: /images/fulls/11.jpg
   thumb_path: /images/thumbs/11.jpg
   date: 24/10/2015 11:18
+- title: Interior FESC
+  description: Interior FESC
+  image_path: /images/fulls/12.jpg
+  thumb_path: /images/thumbs/12.jpg
+  date: 24/10/2015 11:20
+- title: Stand CONFAVC
+  description: Stand CONFAVC
+  image_path: /images/fulls/13.jpg
+  thumb_path: /images/thumbs/13.jpg
+  date: 24/10/2015 11:21
