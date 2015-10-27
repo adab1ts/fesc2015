@@ -35,11 +35,6 @@
   date: 24/10/2015 11:14
 - title: Interior FESC
   description: Interior FESC
-  image_path: /images/fulls/08.jpg
-  thumb_path: /images/thumbs/08.jpg
-  date: 24/10/2015 11:15
-- title: Interior FESC
-  description: Interior FESC
   image_path: /images/fulls/09.jpg
   thumb_path: /images/thumbs/09.jpg
   date: 24/10/2015 11:16
@@ -108,11 +103,6 @@
   image_path: /images/fulls/22.jpg
   thumb_path: /images/thumbs/22.jpg
   date: 25/10/2015 11:28
-- title: Interior FESC
-  description: Interior FESC
-  image_path: /images/fulls/23.jpg
-  thumb_path: /images/thumbs/23.jpg
-  date: 25/10/2015 11:29
 - title: Interior FESC
   description: Interior FESC
   image_path: /images/fulls/24.jpg
