@@ -63,3 +63,88 @@
   image_path: /images/fulls/13.jpg
   thumb_path: /images/thumbs/13.jpg
   date: 24/10/2015 11:21
+- title: Punt d'informació
+  description: Punt d'informació
+  image_path: /images/fulls/14.jpg
+  thumb_path: /images/thumbs/14.jpg
+  date: 24/10/2015 11:22
+- title: Cantina
+  description: Cantina
+  image_path: /images/fulls/15.jpg
+  thumb_path: /images/thumbs/15.jpg
+  date: 24/10/2015 11:22
+- title: Cantina
+  description: Cantina
+  image_path: /images/fulls/16.jpg
+  thumb_path: /images/thumbs/16.jpg
+  date: 24/10/2015 11:22
+- title: Exterior Fabra i Coats
+  description: Exterior Fabra i Coats
+  image_path: /images/fulls/17.jpg
+  thumb_path: /images/thumbs/17.jpg
+  date: 24/10/2015 11:25
+- title: Interior FESC
+  description: Interior FESC
+  image_path: /images/fulls/18.jpg
+  thumb_path: /images/thumbs/18.jpg
+  date: 24/10/2015 11:26
+- title: Interior FESC
+  description: Interior FESC
+  image_path: /images/fulls/19.jpg
+  thumb_path: /images/thumbs/19.jpg
+  date: 24/10/2015 11:27
+- title: Panell ofertes i demandes
+  description: Panell ofertes i demandes
+  image_path: /images/fulls/20.jpg
+  thumb_path: /images/thumbs/20.jpg
+  date: 25/10/2015 11:20
+- title: Interior FESC
+  description: Interior FESC
+  image_path: /images/fulls/21.jpg
+  thumb_path: /images/thumbs/21.jpg
+  date: 25/10/2015 11:27
+- title: Stand Adab1ts
+  description: Stand Adab1ts
+  image_path: /images/fulls/22.jpg
+  thumb_path: /images/thumbs/22.jpg
+  date: 25/10/2015 11:28
+- title: Interior FESC
+  description: Interior FESC
+  image_path: /images/fulls/23.jpg
+  thumb_path: /images/thumbs/23.jpg
+  date: 25/10/2015 11:29
+- title: Interior FESC
+  description: Interior FESC
+  image_path: /images/fulls/24.jpg
+  thumb_path: /images/thumbs/24.jpg
+  date: 25/10/2015 11:30
+- title: Interior FESC
+  description: Interior FESC
+  image_path: /images/fulls/25.jpg
+  thumb_path: /images/thumbs/25.jpg
+  date: 25/10/2015 11:31
+- title: Stand Adab1ts
+  description: Stand Adab1ts
+  image_path: /images/fulls/26.jpg
+  thumb_path: /images/thumbs/26.jpg
+  date: 25/10/2015 11:32
+- title: Stand Adab1ts
+  description: Stand Adab1ts
+  image_path: /images/fulls/27.jpg
+  thumb_path: /images/thumbs/27.jpg
+  date: 25/10/2015 11:33
+- title: Fotocoop
+  description: Fotocoop
+  image_path: /images/fulls/28.jpg
+  thumb_path: /images/thumbs/28.jpg
+  date: 25/10/2015 11:35
+- title: Stand L'Apostrof
+  description: Stand L'Apostrof
+  image_path: /images/fulls/29.jpg
+  thumb_path: /images/thumbs/29.jpg
+  date: 25/10/2015 11:37
+- title: Fotocoop
+  description: Fotocoop
+  image_path: /images/fulls/30.jpg
+  thumb_path: /images/thumbs/30.jpg
+  date: 25/10/2015 11:39
