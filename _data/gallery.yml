@@ -1,5 +1,5 @@
-- title: Stand Adab1ts
-  description: Stand Adab1ts
+- title: Exterior Fabra i Coats
+  description: Exterior Fabra i Coats
   image_path: /images/fulls/01.jpg
   thumb_path: /images/thumbs/01.jpg
   date: 24/10/2015 11:05
@@ -8,8 +8,8 @@
   image_path: /images/fulls/02.jpg
   thumb_path: /images/thumbs/02.jpg
   date: 24/10/2015 11:07
-- title: Exterior Fabra i Coats
-  description: Exterior Fabra i Coats
+- title: Muntatge stand Adab1ts
+  description: Muntatge stand Adab1ts
   image_path: /images/fulls/03.jpg
   thumb_path: /images/thumbs/03.jpg
   date: 24/10/2015 11:08
@@ -18,3 +18,43 @@
   image_path: /images/fulls/04.jpg
   thumb_path: /images/thumbs/04.jpg
   date: 24/10/2015 11:10
+- title: Punt d'informació
+  description: Punt d'informació
+  image_path: /images/fulls/04.jpg
+  thumb_path: /images/thumbs/04.jpg
+  date: 24/10/2015 11:11
+- title: Carpa exterior Fabra i Coats
+  description: Carpa exterior Fabra i Coats
+  image_path: /images/fulls/05.jpg
+  thumb_path: /images/thumbs/05.jpg
+  date: 24/10/2015 11:12
+- title: Escenari exterior Fabra i Coats
+  description: Escenari exterior Fabra i Coats
+  image_path: /images/fulls/06.jpg
+  thumb_path: /images/thumbs/06.jpg
+  date: 24/10/2015 11:13
+- title: Interior FESC
+  description: Interior FESC
+  image_path: /images/fulls/07.jpg
+  thumb_path: /images/thumbs/07.jpg
+  date: 24/10/2015 11:14
+- title: Interior FESC
+  description: Interior FESC
+  image_path: /images/fulls/08.jpg
+  thumb_path: /images/thumbs/08.jpg
+  date: 24/10/2015 11:15
+- title: Interior FESC
+  description: Interior FESC
+  image_path: /images/fulls/09.jpg
+  thumb_path: /images/thumbs/09.jpg
+  date: 24/10/2015 11:16
+- title: Interior FESC
+  description: Interior FESC
+  image_path: /images/fulls/10.jpg
+  thumb_path: /images/thumbs/10.jpg
+  date: 24/10/2015 11:17
+- title: Stand Adab1ts
+  description: Stand Adab1ts
+  image_path: /images/fulls/11.jpg
+  thumb_path: /images/thumbs/11.jpg
+  date: 24/10/2015 11:18
