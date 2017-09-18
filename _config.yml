@@ -1,18 +1,13 @@
 # Site settings
+baseurl: ""
+url: "https://fesc2015.adabits.org"
+lang: 'ca'
+timezone: Europe/Madrid
+
+# Site info
 title: FESC2015 by Adab1ts
 description: Website de demostració per a la FESC 2015, 23-25 d'octubre.
-baseurl: ""
-url: "http://fesc2015.adabits.org"
 email: info@adabits.org
-
-# Defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "drafts"
-    values:
-      image_path: /images/postcards/sample.jpg
 
 # Paths
 # sass:
@@ -20,6 +15,8 @@ defaults:
 
 # Handling Reading
 exclude: ['assets/sass']
+encoding: "utf-8"
+markdown_ext: "md"
 
 # Filtering Content
 show_drafts: false
@@ -30,12 +27,11 @@ future:      false
 #   - jekyll-redirect-from
 #   - jekyll-sitemap
 gems:
-- jekyll-feed
-- jekyll-sitemap
+  - jekyll-feed
 
 # Conversion
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Outputting
 permalink: /guestbook/:year/:month/:day/:title/
@@ -43,3 +39,12 @@ permalink: /guestbook/:year/:month/:day/:title/
 # Markdown Processors
 kramdown:
   input: GFM
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "drafts"
+    values:
+      image_path: /images/postcards/sample.jpg
